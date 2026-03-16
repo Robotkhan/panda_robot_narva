@@ -1,5 +1,4 @@
 /build/
 /install/
 /log/
-src/panda_moveit_config
-src/panda_moveit_control
+
